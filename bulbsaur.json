@@ -1,0 +1,731 @@
+[
+    {
+        "id": "base1-44",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/base1/44.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/base1/44_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "40",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "44",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "series": "Base",
+        "set": "Base",
+        "setCode": "base1",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Leech Seed",
+                "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur.",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "gym2-39",
+        "name": "Erika's Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/gym2/39.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/gym2/39_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "50",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "39",
+        "artist": "Ken Sugimori",
+        "rarity": "Uncommon",
+        "series": "Gym",
+        "set": "Gym Challenge",
+        "setCode": "gym2",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Sleep Seed",
+                "text": "The Defending Pokémon is now Asleep.",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Errand-Running",
+                "text": "Flip a coin. If heads, you may search your deck for a Trainer card. Show it to your opponent and put it into your hand. Shuffle your deck afterward.",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "ecard1-94",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/ecard1/94.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/ecard1/94_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "50",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "94",
+        "artist": "Sachi Matoba",
+        "rarity": "Common",
+        "series": "E-Card",
+        "set": "Expedition Base Set",
+        "setCode": "ecard1",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "text": "",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Poison Seed",
+                "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "ecard1-95",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/ecard1/95.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/ecard1/95_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "40",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "95",
+        "artist": "Tomokazu Komiya",
+        "rarity": "Common",
+        "series": "E-Card",
+        "set": "Expedition Base Set",
+        "setCode": "ecard1",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Sleep Seed",
+                "text": "The Defending Pokémon is now Asleep.",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Vine Whip",
+                "text": "",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "ex4-39",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/ex4/39.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/ex4/39_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "50",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "39",
+        "artist": "Ken Sugimori",
+        "rarity": "Common",
+        "series": "EX",
+        "set": "Team Magma vs Team Aqua",
+        "setCode": "ex4",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Growth",
+                "text": "Attach a Grass Energy card from your hand to Bulbasaur.",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Razor Leaf",
+                "text": "",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "ex6-54",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/ex6/54.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/ex6/54_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "50",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "54",
+        "artist": "Atsuko Nishida",
+        "rarity": "Common",
+        "series": "EX",
+        "set": "FireRed & LeafGreen",
+        "setCode": "ex6",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Sleep Poison",
+                "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep and Poisoned.",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Razor Leaf",
+                "text": "",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "ex6-55",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/ex6/55.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/ex6/55_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "50",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "55",
+        "artist": "Hajime Kusajima",
+        "rarity": "Common",
+        "series": "EX",
+        "set": "FireRed & LeafGreen",
+        "setCode": "ex6",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Ram",
+                "text": "",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Gouge",
+                "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "pop2-12",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/pop2/12.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/pop2/12_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "40",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "12",
+        "artist": "Midori Harada",
+        "rarity": "Common",
+        "series": "POP",
+        "set": "POP Series 2",
+        "setCode": "pop2",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "text": "",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Razor Leaf",
+                "text": "",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "ex14-45",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/ex14/45.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/ex14/45_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "50",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "45",
+        "artist": "Sumiyoshi Kizuki",
+        "rarity": "Common",
+        "series": "EX",
+        "set": "Crystal Guardians",
+        "setCode": "ex14",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "text": "",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Poisonpowder",
+                "text": "The Defending Pokémon is now Poisoned.",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "ex14-46",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/ex14/46.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/ex14/46_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "50",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "46",
+        "artist": "Kagemaru Himeno",
+        "rarity": "Common",
+        "series": "EX",
+        "set": "Crystal Guardians",
+        "setCode": "ex14",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Growth",
+                "text": "Attach a Grass Energy card from your hand to Bulbasaur.",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Vine Whip",
+                "text": "",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "dp3-77",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/dp3/77.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/dp3/77_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "60",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "77",
+        "artist": "Kouki Saitou",
+        "rarity": "Common",
+        "series": "Diamond & Pearl",
+        "set": "Secret Wonders",
+        "setCode": "dp3",
+        "attacks": [
+            {
+                "cost": [
+                    "Free"
+                ],
+                "name": "Shake Vine",
+                "text": "The Defending Pokémon is now Asleep.",
+                "damage": "",
+                "convertedEnergyCost": 0
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Bullet Seed",
+                "text": "Flip 4 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+10"
+            }
+        ]
+    },
+    {
+        "id": "pl3-93",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/pl3/93.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/pl3/93_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "60",
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "93",
+        "artist": "Naoyo Kimura",
+        "rarity": "Common",
+        "series": "Platinum",
+        "set": "Supreme Victors",
+        "setCode": "pl3",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "text": "",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Vine Whip",
+                "text": "",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+10"
+            }
+        ]
+    },
+    {
+        "id": "bw5-1",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/bw5/1.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/bw5/1_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "60",
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "number": "1",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "series": "Black & White",
+        "set": "Dark Explorers",
+        "setCode": "bw5",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Tackle",
+                "text": "",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Razor Leaf",
+                "text": "",
+                "damage": "30",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "sm35-1",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/sm35/1.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/sm35/1_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "hp": "70",
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "number": "1",
+        "artist": "Mizue",
+        "rarity": "Common",
+        "series": "Sun & Moon",
+        "set": "Shining Legends",
+        "setCode": "sm35",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Razor Leaf",
+                "text": "",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "det1-1",
+        "name": "Bulbasaur",
+        "nationalPokedexNumber": 1,
+        "imageUrl": "https://images.pokemontcg.io/det1/1.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/det1/1_hires.png",
+        "types": [
+            "Grass"
+        ],
+        "supertype": "Pokémon",
+        "subtype": "Basic",
+        "evolvesFrom": "",
+        "hp": 60,
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "1",
+        "rarity": "Common",
+        "series": "Sun & Moon",
+        "set": "Detective Pikachu",
+        "setCode": "det1",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Find a Friend",
+                "text": "Search your deck for a {G} Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    }
+]
